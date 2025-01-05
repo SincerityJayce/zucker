@@ -4,7 +4,8 @@
   "description": "Global state so sweet it feels like a fresh framework",
   "main": "zucker.jsx",
   "dependencies": {
-   "lodash-es": "4.17.21"
+    "lodash-es": "4.17.21",
+    "zustand": "^5.0.2"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
