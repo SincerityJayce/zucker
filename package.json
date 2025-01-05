@@ -4,6 +4,7 @@
   "description": "Global state so sweet it feels like a fresh framework",
   "main": "zucker.jsx",
   "dependencies": {
+    "immer": "^10.1.1",
     "lodash-es": "4.17.21",
     "zustand": "^5.0.2"
   },
