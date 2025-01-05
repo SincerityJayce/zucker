@@ -1,6 +1,7 @@
 import { omit } from "lodash-es";
 import { debounce } from 'lodash-es';
 import {create} from "zustand"
+import { immer } from "zustand/middleware/immer";
 
 const lodash = {omit, debounce}
 
